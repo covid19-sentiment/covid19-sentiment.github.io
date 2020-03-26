@@ -1,3 +1,4 @@
+function createMap(){
 var xmlhttp = new XMLHttpRequest();
 xmlhttp.onreadystatechange = function() {
   if (this.readyState == 4 && this.status == 200) {
@@ -30,3 +31,4 @@ xmlhttp.onreadystatechange = function() {
 };
 xmlhttp.open("GET", "https://raw.githubusercontent.com/covid19-sentiment/covid19-sentiment.github.io/master/example.json", true);
 xmlhttp.send();
+}
