@@ -1,30 +1,37 @@
 {
    "AL": {
       "State": "AL",
-      "Sentiment_value": "-0.5"
+      "Sentiment_value": "-0.5",
+      "fill_key": "-0.5"
    },
    "AK": {
       "State": "AK",
-      "Sentiment value": "-0.11"
+      "Sentiment_value": "-0.11",
+      "fill_key": "-0.1"
    },
    "AZ": {
       "State": "AZ",
-      "Sentiment_value": "0.7"
+      "Sentiment_value": "0.7",
+      "fill_key": "0.7"
    },
    "AR": {
       "State": "AR",
-      "Sentiment_value": "0.78"
+      "Sentiment_value": "0.78",
+      "fill_key": "0.8"
    },
    "CA": {
       "State": "CA",
-      "Sentiment_value": "-0.73"
+      "Sentiment_value": "-0.73",
+      "fill_key": "-0.7"
    },
    "CO": {
       "State": "CO",
-      "Sentiment_value": "-0.65"
+      "Sentiment_value": "-0.65",
+      "fill_key": "-0.7"
    },
    "CT": {
       "State": "CT",
-      "Sentiment_value": "0"
+      "Sentiment_value": "0",
+      "fill_key": "0.0"
    }
 }
