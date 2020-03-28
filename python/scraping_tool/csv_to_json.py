@@ -12,7 +12,7 @@ with open('data/state_sentiment_example2.csv', 'r') as csvFile:
         # The States are used as keys for dictionary
         key = row['State']
         fill_key = round(float(row['Sentiment_value']), 1)
-        row['fill_key'] = str(fill_key)
+        row['fillKey'] = str(fill_key)
         data[key] = row
 
 
