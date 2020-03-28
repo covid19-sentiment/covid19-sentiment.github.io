@@ -16,12 +16,6 @@ xmlhttp.onreadystatechange = function() {
         },
         // tutorial for filling a map with a graditent of colors https://www.youtube.com/watch?v=_sqqxcRf9hw
         fills: {
-        'Republican': '#CC4731',
-        'Democrat': '#306596',
-        'Heavy Democrat': '#667FAF',
-        'Light Democrat': '#A9C0DE',
-        'Heavy Republican': '#CA5E5B',
-        'Light Republican': '#EAA9A8',
         '0.1': '#CCFFCC',
         '0.2': '#CCFFCC',
         '0.3': '#99FF99',
@@ -32,7 +26,7 @@ xmlhttp.onreadystatechange = function() {
         '0.8': '#33FF33',
         '0.9': '#00FF00',
         '1.0': '#00FF00',
-        '0': '#FFFFCC',
+        '0.0': '#FFFFCC',
         '-0.1': '#FFCCCC',
         '-0.2': '#FFCCCC',
         '-0.3': '#FF9999',
@@ -50,6 +44,6 @@ xmlhttp.onreadystatechange = function() {
       election.labels();
   }
 };
-xmlhttp.open("GET", "https://raw.githubusercontent.com/covid19-sentiment/covid19-sentiment.github.io/master/state_sentiment_example.json", true);
+xmlhttp.open("GET", "https://raw.githubusercontent.com/covid19-sentiment/covid19-sentiment.github.io/master/state_sentiment_example2.json", true);
 xmlhttp.send();
 }

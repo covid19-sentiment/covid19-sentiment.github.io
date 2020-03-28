@@ -1,0 +1,252 @@
+{
+   "AL": {
+      "State": "AL",
+      "Sentiment_value": "-0.5",
+      "fill_key": "-0.5"
+   },
+   "AK": {
+      "State": "AK",
+      "Sentiment_value": "-0.11",
+      "fill_key": "-0.1"
+   },
+   "AZ": {
+      "State": "AZ",
+      "Sentiment_value": "0.7",
+      "fill_key": "0.7"
+   },
+   "AR": {
+      "State": "AR",
+      "Sentiment_value": "0.78",
+      "fill_key": "0.8"
+   },
+   "CA": {
+      "State": "CA",
+      "Sentiment_value": "-0.73",
+      "fill_key": "-0.7"
+   },
+   "CO": {
+      "State": "CO",
+      "Sentiment_value": "-0.65",
+      "fill_key": "-0.7"
+   },
+   "CT": {
+      "State": "CT",
+      "Sentiment_value": "0",
+      "fill_key": "0.0"
+   },
+   "DE": {
+      "State": "DE",
+      "Sentiment_value": "0.1",
+      "fill_key": "0.1"
+   },
+   "FL": {
+      "State": "FL",
+      "Sentiment_value": "0.2",
+      "fill_key": "0.2"
+   },
+   "GA": {
+      "State": "GA",
+      "Sentiment_value": "0.3",
+      "fill_key": "0.3"
+   },
+   "HI": {
+      "State": "HI",
+      "Sentiment_value": "0.4",
+      "fill_key": "0.4"
+   },
+   "ID": {
+      "State": "ID",
+      "Sentiment_value": "0.5",
+      "fill_key": "0.5"
+   },
+   "IL": {
+      "State": "IL",
+      "Sentiment_value": "0.6",
+      "fill_key": "0.6"
+   },
+   "IN": {
+      "State": "IN",
+      "Sentiment_value": "0.7",
+      "fill_key": "0.7"
+   },
+   "IA": {
+      "State": "IA",
+      "Sentiment_value": "0.8",
+      "fill_key": "0.8"
+   },
+   "KS": {
+      "State": "KS",
+      "Sentiment_value": "0.9",
+      "fill_key": "0.9"
+   },
+   "KY": {
+      "State": "KY",
+      "Sentiment_value": "1",
+      "fill_key": "1.0"
+   },
+   "LA": {
+      "State": "LA",
+      "Sentiment_value": "0",
+      "fill_key": "0.0"
+   },
+   "ME": {
+      "State": "ME",
+      "Sentiment_value": "-0.1",
+      "fill_key": "-0.1"
+   },
+   "MD": {
+      "State": "MD",
+      "Sentiment_value": "-0.2",
+      "fill_key": "-0.2"
+   },
+   "MA": {
+      "State": "MA",
+      "Sentiment_value": "-0.3",
+      "fill_key": "-0.3"
+   },
+   "MI": {
+      "State": "MI",
+      "Sentiment_value": "-0.4",
+      "fill_key": "-0.4"
+   },
+   "MN": {
+      "State": "MN",
+      "Sentiment_value": "-0.5",
+      "fill_key": "-0.5"
+   },
+   "MS": {
+      "State": "MS",
+      "Sentiment_value": "-0.6",
+      "fill_key": "-0.6"
+   },
+   "MO": {
+      "State": "MO",
+      "Sentiment_value": "-0.7",
+      "fill_key": "-0.7"
+   },
+   "MT": {
+      "State": "MT",
+      "Sentiment_value": "-0.8",
+      "fill_key": "-0.8"
+   },
+   "NE": {
+      "State": "NE",
+      "Sentiment_value": "-0.9",
+      "fill_key": "-0.9"
+   },
+   "NV": {
+      "State": "NV",
+      "Sentiment_value": "-1",
+      "fill_key": "-1.0"
+   },
+   "NH": {
+      "State": "NH",
+      "Sentiment_value": "0.473",
+      "fill_key": "0.5"
+   },
+   "NJ": {
+      "State": "NJ",
+      "Sentiment_value": "0.223",
+      "fill_key": "0.2"
+   },
+   "NM": {
+      "State": "NM",
+      "Sentiment_value": "0.1234",
+      "fill_key": "0.1"
+   },
+   "NY": {
+      "State": "NY",
+      "Sentiment_value": "0.98",
+      "fill_key": "1.0"
+   },
+   "NC": {
+      "State": "NC",
+      "Sentiment_value": "0.787",
+      "fill_key": "0.8"
+   },
+   "ND": {
+      "State": "ND",
+      "Sentiment_value": "0.55",
+      "fill_key": "0.6"
+   },
+   "OH": {
+      "State": "OH",
+      "Sentiment_value": "-0.11",
+      "fill_key": "-0.1"
+   },
+   "OK": {
+      "State": "OK",
+      "Sentiment_value": "-0.245",
+      "fill_key": "-0.2"
+   },
+   "OR": {
+      "State": "OR",
+      "Sentiment_value": "-0.458",
+      "fill_key": "-0.5"
+   },
+   "PA": {
+      "State": "PA",
+      "Sentiment_value": "-0.366",
+      "fill_key": "-0.4"
+   },
+   "RI": {
+      "State": "RI",
+      "Sentiment_value": "-0.483",
+      "fill_key": "-0.5"
+   },
+   "SC": {
+      "State": "SC",
+      "Sentiment_value": "-0.69",
+      "fill_key": "-0.7"
+   },
+   "SD": {
+      "State": "SD",
+      "Sentiment_value": "0",
+      "fill_key": "0.0"
+   },
+   "TN": {
+      "State": "TN",
+      "Sentiment_value": "0.1",
+      "fill_key": "0.1"
+   },
+   "TX": {
+      "State": "TX",
+      "Sentiment_value": "0.543",
+      "fill_key": "0.5"
+   },
+   "UT": {
+      "State": "UT",
+      "Sentiment_value": "0.75",
+      "fill_key": "0.8"
+   },
+   "VT": {
+      "State": "VT",
+      "Sentiment_value": "-0.34",
+      "fill_key": "-0.3"
+   },
+   "VA": {
+      "State": "VA",
+      "Sentiment_value": "-0.234",
+      "fill_key": "-0.2"
+   },
+   "WA": {
+      "State": "WA",
+      "Sentiment_value": "-0.77",
+      "fill_key": "-0.8"
+   },
+   "WV": {
+      "State": "WV",
+      "Sentiment_value": "-0.698",
+      "fill_key": "-0.7"
+   },
+   "WI": {
+      "State": "WI",
+      "Sentiment_value": "-0.54",
+      "fill_key": "-0.5"
+   },
+   "WY": {
+      "State": "WY",
+      "Sentiment_value": "-0.349",
+      "fill_key": "-0.3"
+   }
+}

@@ -6,7 +6,7 @@ format to be fed to map.
 import csv, json
 
 data = {}
-with open('data/state_sentiment_example.csv', 'r') as csvFile:
+with open('data/state_sentiment_example2.csv', 'r') as csvFile:
     csvReader = csv.DictReader(csvFile)
     for row in csvReader:
         # The States are used as keys for dictionary
@@ -16,5 +16,5 @@ with open('data/state_sentiment_example.csv', 'r') as csvFile:
         data[key] = row
 
 
-with open('data/state_sentiment_example.json', 'w') as jsonFile:
+with open('data/state_sentiment_example2.json', 'w') as jsonFile:
     jsonFile.write(json.dumps(data, indent=3))
