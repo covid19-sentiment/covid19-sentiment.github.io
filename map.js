@@ -10,7 +10,7 @@ xmlhttp.onreadystatechange = function() {
         geographyConfig: {
           highlightBorderColor: '#bada55',
          popupTemplate: function(geography, data) {
-            return '<div class="hoverinfo">' + geography.properties.name + ' Sentiment:' +  data.electoralVotes + ' '
+            return '<div class="hoverinfo">' + geography.properties.name + ' Sentiment:' +  data.Sentiment_value + ' '
           },
           highlightBorderWidth: 3
         },
@@ -22,13 +22,34 @@ xmlhttp.onreadystatechange = function() {
         'Light Democrat': '#A9C0DE',
         'Heavy Republican': '#CA5E5B',
         'Light Republican': '#EAA9A8',
-        defaultFill: '#EDDC4E'
+        '0.1': '#CCFFCC',
+        '0.2': '#CCFFCC',
+        '0.3': '#99FF99',
+        '0.4': '#99FF99',
+        '0.5': '#66FF66',
+        '0.6': '#66FF66',
+        '0.7': '#33FF33',
+        '0.8': '#33FF33',
+        '0.9': '#00FF00',
+        '1.0': '#00FF00',
+        '0': '#FFFFCC',
+        '-0.1': '#FFCCCC',
+        '-0.2': '#FFCCCC',
+        '-0.3': '#FF9999',
+        '-0.4': '#FF9999',
+        '-0.5': '#FF6666',
+        '-0.6': '#FF6666',
+        '-0.7': '#FF3333',
+        '-0.8': '#FF3333',
+        '-0.9': '#FF0000',
+        '-1.0': '#FF0000',
+        defaultFill: '#FFFFFF'
       },
       data:myObj
       });
       election.labels();
   }
 };
-xmlhttp.open("GET", "https://raw.githubusercontent.com/covid19-sentiment/covid19-sentiment.github.io/master/example.json", true);
+xmlhttp.open("GET", "https://raw.githubusercontent.com/covid19-sentiment/covid19-sentiment.github.io/master/state_sentiment_example.json", true);
 xmlhttp.send();
 }

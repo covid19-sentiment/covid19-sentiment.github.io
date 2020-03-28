@@ -8,10 +8,13 @@ import csv, json
 data = {}
 with open('data/state_sentiment_example.csv', 'r') as csvFile:
     csvReader = csv.DictReader(csvFile)
-    for rows in csvReader:
+    for row in csvReader:
         # The States are used as keys for dictionary
-        key = rows['State']
-        data[key] = rows
+        key = row['State']
+        fill_key = round(float(row['Sentiment_value']), 1)
+        row['fill_key'] = str(fill_key)
+        data[key] = row
+
 
 with open('data/state_sentiment_example.json', 'w') as jsonFile:
     jsonFile.write(json.dumps(data, indent=3))

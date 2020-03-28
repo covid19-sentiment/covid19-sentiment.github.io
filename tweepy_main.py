@@ -21,10 +21,11 @@ auth.set_access_token(access_token, access_token_secret)
 '''
 
 consumer_key = 'aplTLj58nnzdbxYLb4xJECMaR'
-consumer_secret = 'qU2tOJ8RrZJu4vZMNSpy4UhYjGKfsdodsloNeuaZti0taK2uCX'
+consumer_key = "FkFTiyhRvTB6RqmrMpIip0eYX"
+consumer_secret = "ujcrz8LpDoXTZlaXnkUhIjW2kJgYM0TnCDuHhevrpdEnDJzcFs"
 
-access_token = '1243213103380168706-MOsmsPagZvIZtjDQ3JJFTwLQjFwLiC'
-access_token_secret = 'cQlSCGEVPRXHdQ0mfHtUoMpk0PnYk9lQt5rGldnS7qwgC'
+access_token = "2476681700-xvAdNGM2VEKwbTBMQuHf7Q7Lydv9xcrNmAl6uCj"
+access_token_secret = "7jVgy6desI4xWemGokT1kIrRjbImlacW5p1RZ21LFQm0J"
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
@@ -44,7 +45,7 @@ for tweet in public_tweets:
 search_words = "#Coronavirus OR #coronavirus OR #Covid-19 OR #Covid19 OR #covid-19 OR #COVID19 OR #COVID-19OR #covid19 OR #quarantine OR #lockdown"
 date_since = "2020-03-03" #YYYY-MM-DD
 date_until = "2020-03-25" #YYYY-MM-DD
-numTweets = 300
-numRuns = 10
+numTweets = 100
+numRuns = 1
 # Call the function scraptweets
 scrapetweets(search_words, date_since, date_until, numTweets, numRuns, api)
