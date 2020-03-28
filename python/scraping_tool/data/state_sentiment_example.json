@@ -1,0 +1,30 @@
+{
+   "AL": {
+      "State": "AL",
+      "Sentiment value": "-0.5"
+   },
+   "AK": {
+      "State": "AK",
+      "Sentiment value": "-0.11"
+   },
+   "AZ": {
+      "State": "AZ",
+      "Sentiment value": "0.7"
+   },
+   "AR": {
+      "State": "AR",
+      "Sentiment value": "0.78"
+   },
+   "CA": {
+      "State": "CA",
+      "Sentiment value": "-0.73"
+   },
+   "CO": {
+      "State": "CO",
+      "Sentiment value": "-0.65"
+   },
+   "CT": {
+      "State": "CT",
+      "Sentiment value": "0"
+   }
+}
