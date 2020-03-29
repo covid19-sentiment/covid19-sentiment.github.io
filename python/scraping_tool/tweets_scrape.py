@@ -60,7 +60,7 @@ def scrapetweets(search_words, date_since, date_until, numTweets, numRuns, api):
     to_csv_timestamp = datetime.today().strftime('%Y%m%d_%H%M%S')
     # Define working path and filename
     path = os.getcwd()
-    filename = path + '/data/' + to_csv_timestamp + '_corona_tweets.csv'
+    filename = path + '/python/scraping_tool/data/' + to_csv_timestamp + '_corona_tweets.csv'
     # Store dataframe in csv with creation date timestamp
     db_tweets.to_csv(filename, index = False)
 

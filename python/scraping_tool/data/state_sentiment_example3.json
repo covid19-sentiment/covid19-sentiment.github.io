@@ -1,0 +1,252 @@
+{
+   "AL": {
+      "state": "AL",
+      "sentimentVal": "-0.5",
+      "fillKey": "strong negative"
+   },
+   "AK": {
+      "state": "AK",
+      "sentimentVal": "-0.11",
+      "fillKey": "weak negative"
+   },
+   "AZ": {
+      "state": "AZ",
+      "sentimentVal": "0.7",
+      "fillKey": "strong positive"
+   },
+   "AR": {
+      "state": "AR",
+      "sentimentVal": "0.78",
+      "fillKey": "strong positive"
+   },
+   "CA": {
+      "state": "CA",
+      "sentimentVal": "-0.73",
+      "fillKey": "strong negative"
+   },
+   "CO": {
+      "state": "CO",
+      "sentimentVal": "-0.65",
+      "fillKey": "strong negative"
+   },
+   "CT": {
+      "state": "CT",
+      "sentimentVal": "0",
+      "fillKey": "neutral"
+   },
+   "DE": {
+      "state": "DE",
+      "sentimentVal": "0.1",
+      "fillKey": "weak positive"
+   },
+   "FL": {
+      "state": "FL",
+      "sentimentVal": "0.2",
+      "fillKey": "weak positive"
+   },
+   "GA": {
+      "state": "GA",
+      "sentimentVal": "0.3",
+      "fillKey": "weak positive"
+   },
+   "HI": {
+      "state": "HI",
+      "sentimentVal": "0.4",
+      "fillKey": "weak positive"
+   },
+   "ID": {
+      "state": "ID",
+      "sentimentVal": "0.5",
+      "fillKey": "strong positive"
+   },
+   "IL": {
+      "state": "IL",
+      "sentimentVal": "0.6",
+      "fillKey": "strong positive"
+   },
+   "IN": {
+      "state": "IN",
+      "sentimentVal": "0.7",
+      "fillKey": "strong positive"
+   },
+   "IA": {
+      "state": "IA",
+      "sentimentVal": "0.8",
+      "fillKey": "strong positive"
+   },
+   "KS": {
+      "state": "KS",
+      "sentimentVal": "0.9",
+      "fillKey": "strong positive"
+   },
+   "KY": {
+      "state": "KY",
+      "sentimentVal": "1",
+      "fillKey": "strong positive"
+   },
+   "LA": {
+      "state": "LA",
+      "sentimentVal": "0",
+      "fillKey": "neutral"
+   },
+   "ME": {
+      "state": "ME",
+      "sentimentVal": "-0.1",
+      "fillKey": "weak negative"
+   },
+   "MD": {
+      "state": "MD",
+      "sentimentVal": "-0.2",
+      "fillKey": "weak negative"
+   },
+   "MA": {
+      "state": "MA",
+      "sentimentVal": "-0.3",
+      "fillKey": "weak negative"
+   },
+   "MI": {
+      "state": "MI",
+      "sentimentVal": "-0.4",
+      "fillKey": "weak negative"
+   },
+   "MN": {
+      "state": "MN",
+      "sentimentVal": "-0.5",
+      "fillKey": "strong negative"
+   },
+   "MS": {
+      "state": "MS",
+      "sentimentVal": "-0.6",
+      "fillKey": "strong negative"
+   },
+   "MO": {
+      "state": "MO",
+      "sentimentVal": "-0.7",
+      "fillKey": "strong negative"
+   },
+   "MT": {
+      "state": "MT",
+      "sentimentVal": "-0.8",
+      "fillKey": "strong negative"
+   },
+   "NE": {
+      "state": "NE",
+      "sentimentVal": "-0.9",
+      "fillKey": "strong negative"
+   },
+   "NV": {
+      "state": "NV",
+      "sentimentVal": "-1",
+      "fillKey": "strong negative"
+   },
+   "NH": {
+      "state": "NH",
+      "sentimentVal": "0.473",
+      "fillKey": "weak positive"
+   },
+   "NJ": {
+      "state": "NJ",
+      "sentimentVal": "0.223",
+      "fillKey": "weak positive"
+   },
+   "NM": {
+      "state": "NM",
+      "sentimentVal": "0.1234",
+      "fillKey": "weak positive"
+   },
+   "NY": {
+      "state": "NY",
+      "sentimentVal": "0.98",
+      "fillKey": "strong positive"
+   },
+   "NC": {
+      "state": "NC",
+      "sentimentVal": "0.787",
+      "fillKey": "strong positive"
+   },
+   "ND": {
+      "state": "ND",
+      "sentimentVal": "0.55",
+      "fillKey": "strong positive"
+   },
+   "OH": {
+      "state": "OH",
+      "sentimentVal": "-0.11",
+      "fillKey": "weak negative"
+   },
+   "OK": {
+      "state": "OK",
+      "sentimentVal": "-0.245",
+      "fillKey": "weak negative"
+   },
+   "OR": {
+      "state": "OR",
+      "sentimentVal": "-0.458",
+      "fillKey": "weak negative"
+   },
+   "PA": {
+      "state": "PA",
+      "sentimentVal": "-0.366",
+      "fillKey": "weak negative"
+   },
+   "RI": {
+      "state": "RI",
+      "sentimentVal": "-0.483",
+      "fillKey": "weak negative"
+   },
+   "SC": {
+      "state": "SC",
+      "sentimentVal": "-0.69",
+      "fillKey": "strong negative"
+   },
+   "SD": {
+      "state": "SD",
+      "sentimentVal": "0",
+      "fillKey": "neutral"
+   },
+   "TN": {
+      "state": "TN",
+      "sentimentVal": "0.1",
+      "fillKey": "weak positive"
+   },
+   "TX": {
+      "state": "TX",
+      "sentimentVal": "0.543",
+      "fillKey": "strong positive"
+   },
+   "UT": {
+      "state": "UT",
+      "sentimentVal": "0.75",
+      "fillKey": "strong positive"
+   },
+   "VT": {
+      "state": "VT",
+      "sentimentVal": "-0.34",
+      "fillKey": "weak negative"
+   },
+   "VA": {
+      "state": "VA",
+      "sentimentVal": "-0.234",
+      "fillKey": "weak negative"
+   },
+   "WA": {
+      "state": "WA",
+      "sentimentVal": "-0.77",
+      "fillKey": "strong negative"
+   },
+   "WV": {
+      "state": "WV",
+      "sentimentVal": "-0.698",
+      "fillKey": "strong negative"
+   },
+   "WI": {
+      "state": "WI",
+      "sentimentVal": "-0.54",
+      "fillKey": "strong negative"
+   },
+   "WY": {
+      "state": "WY",
+      "sentimentVal": "-0.349",
+      "fillKey": "weak negative"
+   }
+}
