@@ -1,0 +1,302 @@
+{
+   "AL": {
+      "state": "AL",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "AK": {
+      "state": "AK",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "AS": {
+      "state": "AS",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "AZ": {
+      "state": "AZ",
+      "newCases": "4",
+      "fillKey": "level_1"
+   },
+   "AR": {
+      "state": "AR",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "CA": {
+      "state": "CA",
+      "newCases": "70",
+      "fillKey": "level_2"
+   },
+   "CO": {
+      "state": "CO",
+      "newCases": "8",
+      "fillKey": "level_1"
+   },
+   "CT": {
+      "state": "CT",
+      "newCases": "2",
+      "fillKey": "level_1"
+   },
+   "DE": {
+      "state": "DE",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "DC": {
+      "state": "DC",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "FM": {
+      "state": "FM",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "FL": {
+      "state": "FL",
+      "newCases": "8",
+      "fillKey": "level_1"
+   },
+   "GA": {
+      "state": "GA",
+      "newCases": "6",
+      "fillKey": "level_1"
+   },
+   "GU": {
+      "state": "GU",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "HI": {
+      "state": "HI",
+      "newCases": "1",
+      "fillKey": "level_1"
+   },
+   "ID": {
+      "state": "ID",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "IL": {
+      "state": "IL",
+      "newCases": "3",
+      "fillKey": "level_1"
+   },
+   "IN": {
+      "state": "IN",
+      "newCases": "1",
+      "fillKey": "level_1"
+   },
+   "IA": {
+      "state": "IA",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "KS": {
+      "state": "KS",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "KY": {
+      "state": "KY",
+      "newCases": "1",
+      "fillKey": "level_1"
+   },
+   "LA": {
+      "state": "LA",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "ME": {
+      "state": "ME",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "MH": {
+      "state": "MH",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "MD": {
+      "state": "MD",
+      "newCases": "3",
+      "fillKey": "level_1"
+   },
+   "MA": {
+      "state": "MA",
+      "newCases": "6",
+      "fillKey": "level_1"
+   },
+   "MI": {
+      "state": "MI",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "MN": {
+      "state": "MN",
+      "newCases": "1",
+      "fillKey": "level_1"
+   },
+   "MS": {
+      "state": "MS",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "MO": {
+      "state": "MO",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "MT": {
+      "state": "MT",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "NE": {
+      "state": "NE",
+      "newCases": "1",
+      "fillKey": "level_1"
+   },
+   "NV": {
+      "state": "NV",
+      "newCases": "2",
+      "fillKey": "level_1"
+   },
+   "NH": {
+      "state": "NH",
+      "newCases": "2",
+      "fillKey": "level_1"
+   },
+   "NJ": {
+      "state": "NJ",
+      "newCases": "4",
+      "fillKey": "level_1"
+   },
+   "NM": {
+      "state": "NM",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "NY": {
+      "state": "NY",
+      "newCases": "76",
+      "fillKey": "level_2"
+   },
+   "NC": {
+      "state": "NC",
+      "newCases": "2",
+      "fillKey": "level_1"
+   },
+   "ND": {
+      "state": "ND",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "MP": {
+      "state": "MP",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "OH": {
+      "state": "OH",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "OK": {
+      "state": "OK",
+      "newCases": "1",
+      "fillKey": "level_1"
+   },
+   "OR": {
+      "state": "OR",
+      "newCases": "5",
+      "fillKey": "level_1"
+   },
+   "PW": {
+      "state": "PW",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "PA": {
+      "state": "PA",
+      "newCases": "2",
+      "fillKey": "level_1"
+   },
+   "PR": {
+      "state": "PR",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "RI": {
+      "state": "RI",
+      "newCases": "2",
+      "fillKey": "level_1"
+   },
+   "SC": {
+      "state": "SC",
+      "newCases": "2",
+      "fillKey": "level_1"
+   },
+   "SD": {
+      "state": "SD",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "TN": {
+      "state": "TN",
+      "newCases": "1",
+      "fillKey": "level_1"
+   },
+   "TX": {
+      "state": "TX",
+      "newCases": "8",
+      "fillKey": "level_1"
+   },
+   "UT": {
+      "state": "UT",
+      "newCases": "1",
+      "fillKey": "level_1"
+   },
+   "VT": {
+      "state": "VT",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "VI": {
+      "state": "VI",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "VA": {
+      "state": "VA",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "WA": {
+      "state": "WA",
+      "newCases": "96",
+      "fillKey": "level_2"
+   },
+   "WV": {
+      "state": "WV",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "WI": {
+      "state": "WI",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "WY": {
+      "state": "WY",
+      "newCases": "0",
+      "fillKey": "level_0"
+   },
+   "Unknown": {
+      "state": "Unknown",
+      "newCases": "-23",
+      "fillKey": "level_0"
+   }
+}
