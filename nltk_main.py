@@ -1,4 +1,6 @@
 import nltk
+nltk.download('stopwords')
+nltk.download('vader_lexicon')
 import string
 import re
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
