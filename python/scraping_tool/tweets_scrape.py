@@ -12,7 +12,7 @@ from nltk_main import analyze_sentiment
 def scrapetweets(search_words, date_since, date_until, numTweets, numRuns, api):
 
     # Define a pandas dataframe to store the date:
-    db_tweets = pd.DataFrame(columns = ['location', 'text', 'hashtags', 'sentiment']
+    db_tweets = pd.DataFrame(columns = ['location', 'date', 'text', 'hashtags', 'sentiment', 'full_name', 'place_type', 'country']
                                 )
     program_start = time.time()
     for i in range(0, numRuns):
@@ -29,6 +29,7 @@ def scrapetweets(search_words, date_since, date_until, numTweets, numRuns, api):
 
         for tweet in tweet_list:
             # Pull the values
+            date = tweet.created_at
             location = tweet.user.location
             hashtags = tweet.entities['hashtags']
             try:
@@ -39,8 +40,17 @@ def scrapetweets(search_words, date_since, date_until, numTweets, numRuns, api):
             # Calculate sentiment score
             sentiment = analyze_sentiment(text)
 
+            if tweet.place is not None:
+                full_name = tweet.place.full_name
+                country = tweet.place.country
+                place_type = tweet.place.place_type
+            else:
+                full_name = ""
+                country = ""
+                place_type = ""
+
             # Store to pandas DataFrame
-            ith_tweet = [location, text, hashtags, sentiment]
+            ith_tweet = [location, date, text, hashtags, sentiment, full_name, place_type, country]
             db_tweets.loc[len(db_tweets)] = ith_tweet
             ntweets += 1
 
@@ -60,7 +70,11 @@ def scrapetweets(search_words, date_since, date_until, numTweets, numRuns, api):
     to_csv_timestamp = datetime.today().strftime('%Y%m%d_%H%M%S')
     # Define working path and filename
     path = os.getcwd()
+<<<<<<< Updated upstream
     filename = path + '/python/scraping_tool/data/' + to_csv_timestamp + '_corona_tweets.csv'
+=======
+    filename = path + '/data/' + to_csv_timestamp + '_corona_tweets_results.csv'
+>>>>>>> Stashed changes
     # Store dataframe in csv with creation date timestamp
     db_tweets.to_csv(filename, index = False)
 

@@ -1,0 +1,22 @@
+location,date,text,hashtags,sentiment,full_name,place_type,country
+"Dallas, TX",2020-03-27 23:59:59,"""Do you really need to go out right now? Is social distancing really that hard? Is it too much of an effort to wash your hands repeatedly, and to wash them properly, with soap?""
+
+A real call-to-action thread 👇 by @ShirazMaher on #COVID19. 
+
+#StayHome https://t.co/lgEIqhZfhV",[],-0.034499999999999996,,,
+USA,2020-03-27 23:59:59,"55,000 flu deaths put no strain on our hospitals, but with 1500 COVID-19 deaths, we are running out of everything, creating death panels, descending into chaos?
+
+Am I the only one that feels a disconnect from reality here?",[],-0.4511,,,
+"Detroit, MI",2020-03-27 23:59:59,This is E 180th St. station in the Bronx. This is what it’s like to NOT have the privilege of working from home. Social distancing is a privilege that many don’t have. #COVID19 #NYC https://t.co/DCmIHUJP1b,[],0.11535000000000001,,,
+Madrid,2020-03-27 23:59:59,"This is 2020, not 2008.The pandemic affects ALL countries, stops all economies.Not the failure of one econ sector or geo area. This is about fighting #Covid19 while keeping ALL employment &amp; productive capacity alive. Massive public spending by ALL EU member states is required",[],-0.1912,,,
+"Marietta, GA",2020-03-27 23:59:59,"We just started a new information-sharing survey about what grocery stores have stocked at any given moment.  Find out what they have and what they don’t and share your experiences to help others decide when/if to head out.
+Visit:  https://t.co/vhg4E57rRp https://t.co/yyEAjv9Htc",[],0.1998,,,
+"Accra, Ghana",2020-03-27 23:59:59,"https://t.co/vOTSz4VFzy: Father of Ace musician Obour dies of #coronavirus https://t.co/lHNqC59F0o
+
+#CoronaLockdown https://t.co/kBKGJTlQ8X","[{'text': 'coronavirus', 'indices': [62, 74]}, {'text': 'CoronaLockdown', 'indices': [100, 115]}]",0.0,,,
+North Florida ,2020-03-27 23:59:59,You have probably given more of your wealth to COVID-19 efforts than Microsoft co-founder Steve Ballmer https://t.co/ptq2mgAyo1,[],0.5367,,,
+"Victoria, Australia",2020-03-27 23:59:59,"When it comes to spotting symptoms, do you know how to tell the new coronavirus (also known as COVID-19) from seasonal allergies, a cold or the flu? This chart breaks down what we know so far: https://t.co/hcLjfbgACa https://t.co/IaAFLdfIbA",[],-0.1909,,,
+Malaysia,2020-03-27 23:59:59,Our universities are on board to ramp up testing. 10 labs have received go ahead from MOHE to kick-start #COVID19 rt-PCR testing @DrDzul @ProfAdeeba @chriskc_Lee @boosulyn @nazrikh @KKMPutrajaya https://t.co/WE13E8gykR,"[{'text': 'COVID19', 'indices': [123, 131]}]",0.0,,,
+Nigeria,2020-03-27 23:59:59,"11 new cases of #COVID19 have been reported in Nigeria: 8 in Lagos, 2 in Enugu &amp; 1 in Edo State
+
+As at 11:55pm 27th March, there are 81 confirmed cases of  #COVID19 reported in Nigeria. 3 have been discharged with 1 death. https://t.co/7p3v3qAcGM","[{'text': 'COVID19', 'indices': [29, 37]}]",-0.1998,,,
